@@ -8,5 +8,9 @@
 		{
 		"localdir":"blazy,blazyrawr,blazinggaming1",
 		"location":"Blazy/c.content"
-	}
+	},
+	{
+        	"localdir":"cheeseballs",
+        	"location":"ItsCheesecake/c.content"
+    	}
 ]
